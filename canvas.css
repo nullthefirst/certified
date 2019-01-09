@@ -1,4 +1,14 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
 /* Main Styles */
 body {
+  color: #ff6969;
+  text-align: center;
   background-color: #212121;
+  font-family: 'Slabo 27px', serif;
+}
+
+#head-note {
+  color: #f0f0f0;
 }
