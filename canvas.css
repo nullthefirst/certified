@@ -37,3 +37,14 @@ body {
 .inked {
   color: #212121;
 }
+
+/* Mobile Responsive */
+@media all and (max-width: 601px) {
+  .certificate {
+    margin: 1% 30% 1% 30%;
+  }
+
+  #key-note {
+    margin: 1% 30% 1% 30%;
+  }
+}
