@@ -13,9 +13,14 @@ body {
   color: #f0f0f0;
 }
 
+#accolades {
+  margin-top: 2em;
+}
+
 .certificate {
-  padding: 1em;
+  padding: 0.4em;
   display: block;
+  border-radius: 16%;
   margin: 0 30% 0 30%;
   background-color: #f0f0f0;
 }
