@@ -14,6 +14,8 @@ body {
 }
 
 .certificate {
+  padding: 1em;
   display: block;
+  margin: 0 30% 0 30%;
   background-color: #f0f0f0;
 }
