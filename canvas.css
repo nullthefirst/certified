@@ -39,6 +39,16 @@ body {
 }
 
 /* Mobile Responsive */
+@media all and (max-width: 1201px) {
+  .certificate {
+    margin: 1% 20% 1% 20%;
+  }
+
+  #key-note {
+    margin: 1% 20% 1% 20%;
+  }
+}
+
 @media all and (max-width: 601px) {
   .certificate {
     margin: 1% 10% 1% 10%;
