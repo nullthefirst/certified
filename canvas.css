@@ -34,7 +34,6 @@ body {
   background-color: #ff6969;
 }
 
-.lined {
-  text-decoration: underline;
-  text-decoration-color: #212121;
+.inked {
+  color: #212121;
 }
