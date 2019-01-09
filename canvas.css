@@ -12,3 +12,8 @@ body {
 #head-note {
   color: #f0f0f0;
 }
+
+.certificate {
+  display: block;
+  background-color: #f0f0f0;
+}
