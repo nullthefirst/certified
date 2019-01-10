@@ -51,6 +51,10 @@ body {
   float: left;
 }
 
+.shift-right {
+  float: right;
+}
+
 /* Mobile Responsive */
 @media all and (max-width: 1201px) {
   .certificate {
