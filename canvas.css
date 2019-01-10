@@ -47,6 +47,10 @@ body {
   background-color: #ff6969;
 }
 
+.shift-left {
+  float: left;
+}
+
 /* Mobile Responsive */
 @media all and (max-width: 1201px) {
   .certificate {
