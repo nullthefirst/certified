@@ -56,6 +56,10 @@ body {
   #key-note {
     margin: 1% 20% 1% 20%;
   }
+
+  #social {
+    margin: 1% 20% 1% 20%;
+  }
 }
 
 @media all and (max-width: 601px) {
@@ -64,6 +68,10 @@ body {
   }
 
   #key-note {
+    margin: 1% 10% 1% 10%;
+  }
+
+  #social {
     margin: 1% 10% 1% 10%;
   }
 }
