@@ -1,5 +1,6 @@
 // Colours
 $rose: #ff6969;
+$noir: #212121;
 
 /* Fonts */
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
@@ -8,7 +9,7 @@ $rose: #ff6969;
 body {
   color: $rose;
   text-align: center;
-  background-color: #212121;
+  background-color: $noir;
   font-family: 'Slabo 27px', serif;
 }
 
@@ -38,7 +39,7 @@ body {
 }
 
 .inked {
-  color: #212121;
+  color: $noir;
 }
 
 #social {
