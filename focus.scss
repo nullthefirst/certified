@@ -1,12 +1,16 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
 // Colours
 $rose: #ff6969;
 $noir: #212121;
 $yeyo: #f0f0f0;
 
-/* Fonts */
-@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+//
+$centred_margin: 1% 30% 1% 30%;
+$centred_margin_tablet: 1% 20% 1% 20%;
 
-/* Main Styles */
+// Main Styles
 body {
   color: $rose;
   text-align: center;
@@ -26,7 +30,7 @@ body {
   padding: 0.4em;
   display: block;
   border-radius: 16%;
-  margin: 1% 30% 1% 30%;
+  margin: $centred_margin;
   background-color: $yeyo;
 }
 
@@ -35,7 +39,7 @@ body {
   padding: 0.4em;
   display: block;
   border-radius: 2%;
-  margin: 1% 30% 1% 30%;
+  margin: $centred_margin;
   background-color: $rose;
 }
 
@@ -65,11 +69,11 @@ body {
 /* Mobile Responsive */
 @media all and (max-width: 1201px) {
   .certificate {
-    margin: 1% 20% 1% 20%;
+    margin: $centred_margin_tablet;
   }
 
   #key-note {
-    margin: 1% 20% 1% 20%;
+    margin: $centred_margin_tablet;
   }
 
   #social {
