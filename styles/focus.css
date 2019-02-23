@@ -1,4 +1,11 @@
+/* Bootstrap 4 */
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css');
+/* FontAwesome */
+@import url('https://use.fontawesome.com/releases/v5.7.1/css/all.css');
+/* Font */
 @import url("https://fonts.googleapis.com/css?family=Slabo+27px");
+
+/* Main Styles */
 body {
   color: #ff6969;
   text-align: center;
