@@ -26,6 +26,10 @@ body {
   margin: 2em 0 2em 0;
 }
 
+p {
+  padding-top: 0.5em;
+}
+
 .certificate {
   padding: 0.4em;
   display: block;
