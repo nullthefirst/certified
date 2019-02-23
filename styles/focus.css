@@ -53,14 +53,6 @@ body {
   color: #f0f0f0;
 }
 
-.shift-left {
-  float: left;
-}
-
-.shift-right {
-  float: right;
-}
-
 @media all and (max-width: 1201px) {
   .certificate {
     margin: 1% 20% 1% 20%;
