@@ -1,3 +1,5 @@
 *.DS_Store
 
 /styles/focus.css.map
+
+.idea
