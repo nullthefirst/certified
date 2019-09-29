@@ -1,4 +1,4 @@
-# Title
+# Being a Technology Manager
 
-- Course Name  
-  <a href="" target="_blank">See Credentials</a>
+- Managing Technology Projects > PATH
+  <a href="./README.md" target="_blank">See Credentials</a>
