@@ -1,4 +1,10 @@
 # Being a Technology Manager
 
+- Technology Management Skills
+  <a href="./skills/" target="_blank"> > See Credentials</a>
+
+- Leading Technology Teams
+  <a href="#" target="_blank"> > See Credentials</a>
+
 - Managing Technology Projects > PATH  
-  <a href="./manage/" target="_blank"> > See Credentials</a>
+   <a href="./manage/" target="_blank"> > See Credentials</a>
