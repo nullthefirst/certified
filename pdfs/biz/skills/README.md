@@ -9,6 +9,9 @@
 - Managing Technical Professionals  
   <a href="./03.pdf" target="_blank"> > See Credentials</a>
 
+- Aligning IT and Business Strategies  
+  <a href="./04.pdf" target="_blank"> > See Credentials</a>
+
 <!--
 - Course Title
   <a href="#" target="_blank"> > See Credentials</a>
