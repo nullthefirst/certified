@@ -6,7 +6,7 @@
 - The Successful Technical Interview for Interviewers  
   <a href="./02.pdf" target="_blank"> > See Credentials</a>
 
-- Managing Technical Professionals
+- Managing Technical Professionals  
   <a href="./03.pdf" target="_blank"> > See Credentials</a>
 
 <!--
